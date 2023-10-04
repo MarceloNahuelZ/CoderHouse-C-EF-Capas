@@ -1,0 +1,41 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using SistemaGestionData;
+using SistemaGestionEntities;
+
+
+namespace SistemaGestionBussiness
+{
+    public class VentaBussiness
+    {
+        public static List<Venta> ListarVentaData()
+        {
+            return VentaData.ListarVentaData();
+        }
+
+        public static void EliminarVenta (int id)
+        {
+            VentaData.EliminarVentaData(id);
+        }
+
+        public static void CrearVenta (Venta venta)
+        {
+            VentaData.CrearVentaData (venta);
+        }
+
+        public static void ModificarVentaData (int id , Venta ventaDataModificada)
+        {
+            VentaData.ModificarVentaData (id , ventaDataModificada);
+        }
+
+        public static void  ObtenerVentaData(int id)
+        {
+            VentaData.ObtenerVentaData (id);
+        }
+
+
+    }
+}

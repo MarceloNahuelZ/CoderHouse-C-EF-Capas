@@ -1,0 +1,204 @@
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.Form1.resources
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+C:\Users\Marce\Desktop\CodertpfEF\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.Form1.resources
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# SistemaGestion en Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.deps.json
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.runtimeconfig.json
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionBussiness.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionBussiness.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.Form1.resources
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfo.cs
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.CopyComplete
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\refint\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
