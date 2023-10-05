@@ -40,3 +40,17 @@ C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\Codert
 C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
 C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
 C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.runtimeconfig.json
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.genruntimeconfig.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

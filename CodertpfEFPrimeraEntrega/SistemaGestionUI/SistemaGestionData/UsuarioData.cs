@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity.Client;
 using SistemaGestionBussiness;
 using SistemaGestionEntities;
 using System;
@@ -16,58 +17,117 @@ namespace SistemaGestionData
         
         public static Usuario ObtenerUsuario(int id)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                return context.Usuarios.FirstOrDefault(us => us.Id == id);
+                using (var context = new SistemaGestionContext())
+                {
+                    return context.Usuarios.FirstOrDefault(us => us.Id == id);
+                }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return null;
+            }
+
+
         }
 
         public static List<Usuario> ListarUsuario()
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                return context.Usuarios.ToList();
+                using (var context = new SistemaGestionContext())
+                {
+                    return context.Usuarios.ToList();
+                }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return null;
+            }
+
+           
         }
 
         public static void CrearUsuario(Usuario usuario)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                context.Usuarios.Add(usuario);
-                context.SaveChanges();
+                using (var context = new SistemaGestionContext())
+                {
+                    context.Usuarios.Add(usuario);
+                    context.SaveChanges();
+                }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return ;
+            }
+
         }
 
         public static void EliminarUsuario(int id)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                var usuarioExistente = context.Usuarios.FirstOrDefault(us => us.Id == id);
-                if (usuarioExistente != null)
+                using (var context = new SistemaGestionContext())
                 {
-                    context.Usuarios.Remove(usuarioExistente);
-                    context.SaveChanges();
+                    var usuarioExistente = context.Usuarios.FirstOrDefault(us => us.Id == id);
+                    if (usuarioExistente != null)
+                    {
+                        context.Usuarios.Remove(usuarioExistente);
+                        context.SaveChanges();
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return;
+            }
+
+            
         }
 
         public static void ModificarUsuario(int id, Usuario usuarioModificado)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                var usuarioExistente = context.Usuarios.FirstOrDefault(us => us.Id == id);
-                if (usuarioExistente != null)
+                using (var context = new SistemaGestionContext())
                 {
-                    usuarioExistente.Id = usuarioModificado.Id;
-                    usuarioExistente.Nombre = usuarioModificado.Nombre;
-                    usuarioExistente.Apellido = usuarioModificado.Apellido;
-                    usuarioExistente.NombreUsuario = usuarioModificado.NombreUsuario;
-                    usuarioExistente.Contraseña = usuarioModificado.Contraseña;
-                    usuarioExistente.Mail = usuarioModificado.Mail;
-                    context.SaveChanges();
+                    var usuarioExistente = context.Usuarios.FirstOrDefault(us => us.Id == id);
+                    if (usuarioExistente != null)
+                    {
+                        usuarioExistente.Id = usuarioModificado.Id;
+                        usuarioExistente.Nombre = usuarioModificado.Nombre;
+                        usuarioExistente.Apellido = usuarioModificado.Apellido;
+                        usuarioExistente.NombreUsuario = usuarioModificado.NombreUsuario;
+                        usuarioExistente.Contraseña = usuarioModificado.Contraseña;
+                        usuarioExistente.Mail = usuarioModificado.Mail;
+                        context.SaveChanges();
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return;
+            }
+
+            
         }
 
     }   

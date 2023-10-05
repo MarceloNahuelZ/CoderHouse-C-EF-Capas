@@ -10,55 +10,117 @@ namespace SistemaGestionData
 {
     public class VentaData
     {
+        
+
         public static Venta ObtenerVentaData(int id)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                return context.Ventas.FirstOrDefault(v => v.Id == id);
+                using (var context = new SistemaGestionContext())
+                {
+                    return context.Ventas.FirstOrDefault(v => v.Id == id);
+                }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return null ;
+            }
+
+            
         }
         public static List<Venta> ListarVentaData()
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                return context.Ventas.ToList();
+                using (var context = new SistemaGestionContext())
+                {
+                    return context.Ventas.ToList();
+                }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return null;
+            }
+         
         }
 
         public static void CrearVentaData(Venta ventaData)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                context.Ventas.Add(ventaData);
-                context.SaveChanges();
+                using (var context = new SistemaGestionContext())
+                {
+                    context.Ventas.Add(ventaData);
+                    context.SaveChanges();
+                }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return ;
+            }
+
+
+            
         }
 
         public static void EliminarVentaData(int id)
         {
-            using (var context = new SistemaGestionContext())
+            try
             {
-                var ventaDataExistente = context.Ventas.FirstOrDefault(v => v.Id == id);
-                if (ventaDataExistente != null)
+                using (var context = new SistemaGestionContext())
                 {
-                    context.Ventas.Remove(ventaDataExistente);
-                    context.SaveChanges();
+                    var ventaDataExistente = context.Ventas.FirstOrDefault(v => v.Id == id);
+                    if (ventaDataExistente != null)
+                    {
+                        context.Ventas.Remove(ventaDataExistente);
+                        context.SaveChanges();
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return;
+            }
+
+           
         }
 
         public static void ModificarVentaData(int id, Venta ventaDataModificada)
         {
             using (var context = new SistemaGestionContext())
             {
-                var ventaDataExistente = (context.Ventas.FirstOrDefault(v => v.Id == id));
-                if (ventaDataExistente == null)
+                try
                 {
-                    ventaDataExistente.Id = ventaDataModificada.Id;
-                    ventaDataExistente.Comentarios = ventaDataModificada.Comentarios;
-                    ventaDataExistente.IdUsuario = ventaDataModificada.IdUsuario;
+                    var ventaDataExistente = (context.Ventas.FirstOrDefault(v => v.Id == id));
+                    if (ventaDataExistente == null)
+                    {
+                        ventaDataExistente.Id = ventaDataModificada.Id;
+                        ventaDataExistente.Comentarios = ventaDataModificada.Comentarios;
+                        ventaDataExistente.IdUsuario = ventaDataModificada.IdUsuario;
 
+                    }
                 }
+                catch (Exception ex)
+                {
+
+                    Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                    return;
+                }
+
+               
             }
         }
     }
