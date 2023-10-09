@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionData", "Siste
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SistemaGestionEntities", "SistemaGestionEntities\SistemaGestionEntities.csproj", "{DC6DEE5B-2EDE-48D3-9160-DBF8446A2FF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGestionEfApi", "SistemaGestionEfApi\SistemaGestionEfApi.csproj", "{DF0E3B9C-C297-4389-A27D-BD83BE2CDEAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DC6DEE5B-2EDE-48D3-9160-DBF8446A2FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC6DEE5B-2EDE-48D3-9160-DBF8446A2FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6DEE5B-2EDE-48D3-9160-DBF8446A2FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0E3B9C-C297-4389-A27D-BD83BE2CDEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0E3B9C-C297-4389-A27D-BD83BE2CDEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0E3B9C-C297-4389-A27D-BD83BE2CDEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0E3B9C-C297-4389-A27D-BD83BE2CDEAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

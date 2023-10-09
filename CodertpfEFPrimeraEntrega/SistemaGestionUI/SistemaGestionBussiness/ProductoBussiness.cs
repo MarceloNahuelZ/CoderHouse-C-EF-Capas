@@ -30,10 +30,11 @@ namespace SistemaGestionBussiness
             ProductoData.ModificarProducto(id, productoModificado);
         }
 
-        public static void ObtenerProducto(int id)
+        public static Producto ObtenerProducto(int id)
         {
-            ProductoData.ObtenerProducto (id);
+            return ProductoData.ObtenerProducto(id);
         }
-        
+
+
     }
 }
