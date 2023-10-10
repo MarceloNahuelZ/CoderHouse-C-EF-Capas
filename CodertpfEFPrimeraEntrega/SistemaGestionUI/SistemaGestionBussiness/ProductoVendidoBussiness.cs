@@ -17,7 +17,7 @@ namespace SistemaGestionBussiness
 
         public static void EliminarProductoVendido (int id)
         {
-            ProductoVendidoData.ObtenerProductoVendido(id);
+            ProductoVendidoData.EliminarProductoVendido(id);
         }
 
         public static void ObtenerProductoVendido (int id)

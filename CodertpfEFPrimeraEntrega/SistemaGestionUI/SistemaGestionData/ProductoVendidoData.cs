@@ -70,14 +70,14 @@ namespace SistemaGestionData
             
         }
 
-        public static void EliminarProducToVendido(int id)
+        public static void EliminarProductoVendido(int id)
         {
             try
             {
                 using (var context = new SistemaGestionContext())
                 {
                     var productoVendidoExistente = context.ProductosVendidos.FirstOrDefault(x => x.Id == id);
-                    if (productoVendidoExistente == null)
+                    if (productoVendidoExistente != null)
                     {
                         context.ProductosVendidos.Remove(productoVendidoExistente);
                         context.SaveChanges();
@@ -101,7 +101,7 @@ namespace SistemaGestionData
                 using (var context = new SistemaGestionContext())
                 {
                     var productoVendidoExistente = context.ProductosVendidos.FirstOrDefault(x => x.Id == productoVendidoModificado.Id);
-                    if (productoVendidoExistente == null)
+                    if (productoVendidoExistente != null)
                     {
                         productoVendidoExistente.Id = productoVendidoModificado.Id;
                         productoVendidoExistente.IdProducto = productoVendidoModificado.IdProducto;
