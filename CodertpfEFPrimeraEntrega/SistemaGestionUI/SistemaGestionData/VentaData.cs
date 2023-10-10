@@ -97,18 +97,19 @@ namespace SistemaGestionData
            
         }
 
-        public static void ModificarVentaData(int id, Venta ventaDataModificada)
+        public static void ModificarVentaData( Venta ventaDataModificada)
         {
             using (var context = new SistemaGestionContext())
             {
                 try
                 {
-                    var ventaDataExistente = (context.Ventas.FirstOrDefault(v => v.Id == id));
-                    if (ventaDataExistente == null)
+                    var ventaDataExistente = (context.Ventas.FirstOrDefault(v => v.Id == ventaDataModificada.Id));
+                    if (ventaDataExistente != null)
                     {
                         ventaDataExistente.Id = ventaDataModificada.Id;
                         ventaDataExistente.Comentarios = ventaDataModificada.Comentarios;
                         ventaDataExistente.IdUsuario = ventaDataModificada.IdUsuario;
+                        context.SaveChanges();
 
                     }
                 }

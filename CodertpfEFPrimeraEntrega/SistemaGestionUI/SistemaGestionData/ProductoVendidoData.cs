@@ -94,13 +94,13 @@ namespace SistemaGestionData
 
 
         }
-        public static void ModificarProductoVendido(int id, ProductoVendido productoVendidoModificado)
+        public static void ModificarProductoVendido( ProductoVendido productoVendidoModificado)
         {
             try
             {
                 using (var context = new SistemaGestionContext())
                 {
-                    var productoVendidoExistente = context.ProductosVendidos.FirstOrDefault(x => x.Id == id);
+                    var productoVendidoExistente = context.ProductosVendidos.FirstOrDefault(x => x.Id == productoVendidoModificado.Id);
                     if (productoVendidoExistente == null)
                     {
                         productoVendidoExistente.Id = productoVendidoModificado.Id;

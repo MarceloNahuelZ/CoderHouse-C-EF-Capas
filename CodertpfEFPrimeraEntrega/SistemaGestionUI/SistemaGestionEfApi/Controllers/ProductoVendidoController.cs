@@ -14,5 +14,25 @@ namespace SistemaGestionEfApi.Controllers
         {
             return ProductoVendidoBussiness.ListarProductoVendido().ToArray();
         }
+        [HttpDelete(Name = "EliminarProductoVendido")]
+        //delete 
+        //pasar datos atravez del cuerpo
+        public void Delete([FromBody] int id)
+        {
+            ProductoVendidoBussiness.EliminarProductoVendido(id);
+        }
+        //put
+        [HttpPut(Name = "ModificarProductoVendido")]
+        public void Put([FromBody] ProductoVendido productoVendidoModificado)
+        {
+            ProductoVendidoBussiness.ModificarProductoVendido(productoVendidoModificado);
+        }
+
+        //post
+        [HttpPost(Name = "CrearProductoVendido")]
+        public void Post([FromBody] ProductoVendido productoVendido)
+        {
+            ProductoVendidoBussiness.CrearProductoVendido(productoVendido);
+        }
     } 
 }

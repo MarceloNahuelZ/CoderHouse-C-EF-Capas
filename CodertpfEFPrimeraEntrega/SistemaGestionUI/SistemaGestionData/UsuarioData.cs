@@ -100,13 +100,13 @@ namespace SistemaGestionData
             
         }
 
-        public static void ModificarUsuario(int id, Usuario usuarioModificado)
+        public static void ModificarUsuario( Usuario usuarioModificado)
         {
             try
             {
                 using (var context = new SistemaGestionContext())
                 {
-                    var usuarioExistente = context.Usuarios.FirstOrDefault(us => us.Id == id);
+                    var usuarioExistente = context.Usuarios.FirstOrDefault(us => us.Id == usuarioModificado.Id);
                     if (usuarioExistente != null)
                     {
                         usuarioExistente.Id = usuarioModificado.Id;
