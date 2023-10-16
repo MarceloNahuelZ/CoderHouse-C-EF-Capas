@@ -258,7 +258,6 @@ C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrim
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionEntities.pdb
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\bin\Debug\net6.0-windows\SistemaGestionData.pdb
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.Form1.resources
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.csproj.GenerateResource.cache
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.AssemblyInfoInputs.cache
@@ -270,3 +269,5 @@ C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrim
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.pdb
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.genruntimeconfig.cache
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\ref\SistemaGestionUI.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionEF.FormPrincipal.resources
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEF\obj\Debug\net6.0-windows\SistemaGestionUI.FormLogin.resources

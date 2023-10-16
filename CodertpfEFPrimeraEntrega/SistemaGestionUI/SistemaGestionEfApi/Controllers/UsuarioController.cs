@@ -3,6 +3,9 @@ using Microsoft.AspNetCore.Mvc;
 using SistemaGestionEntities;
 using SistemaGestionBussiness;
 using Microsoft.AspNetCore.Mvc.Routing;
+using System.Diagnostics;
+using Newtonsoft.Json.Linq;
+using SistemaGestionData;
 
 namespace SistemaGestionEfApi.Controllers
 {
@@ -37,6 +40,12 @@ namespace SistemaGestionEfApi.Controllers
         public void Post([FromBody] Usuario usuario)
         {
             UsuarioBussiness.CrearUsuario(usuario);
+        }
+
+        [HttpPost, Route("ValidarCredenciales")]
+        public bool Login(UsuarioDTO usuarioLogin)
+        {
+            return UsuarioBussiness.ValidarCredenciales(usuarioLogin);
         }
 
     }

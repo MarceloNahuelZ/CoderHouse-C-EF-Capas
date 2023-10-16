@@ -83,3 +83,4 @@ C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrim
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEfApi\obj\Debug\net6.0\SistemaGestionEfApi.pdb
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEfApi\obj\Debug\net6.0\SistemaGestionEfApi.genruntimeconfig.cache
 C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEfApi\obj\Debug\net6.0\ref\SistemaGestionEfApi.dll
+C:\Users\Marce\source\repos\MarceloNahuelZ\CoderHouse C# EF Capas\CodertpfEFPrimeraEntrega\SistemaGestionUI\SistemaGestionEfApi\bin\Debug\net6.0\Newtonsoft.Json.dll

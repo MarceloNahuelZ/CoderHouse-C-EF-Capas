@@ -36,5 +36,12 @@ namespace SistemaGestionBussiness
            return UsuarioData.ObtenerUsuario(id);
         }
 
+        public static bool ValidarCredenciales(UsuarioDTO usuarioLogin)
+        {
+            return UsuarioData.ValidarCredenciales(usuarioLogin);
+        }
+
+
+
     }
 }

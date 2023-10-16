@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1pFqwPOVTxeh7OXpWQzKEg8G87Czz5AH6kpROrazmgWpe5chTgC45jio614+v57Oh2BrAwLiOgx49oJlYnMLug==",
+  "dgSpecHash": "OXG/5ZvI0ZIAVfXDFGKyf8fj87jcvNH8YhK3qQWrA6+zsYuLeU8sCHu8fiU7DLYulgcZjr9J7tkiR0joHz/zZg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marce\\source\\repos\\MarceloNahuelZ\\CoderHouse C# EF Capas\\CodertpfEFPrimeraEntrega\\SistemaGestionUI\\SistemaGestionEfApi\\SistemaGestionEfApi.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Marce\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Marce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",

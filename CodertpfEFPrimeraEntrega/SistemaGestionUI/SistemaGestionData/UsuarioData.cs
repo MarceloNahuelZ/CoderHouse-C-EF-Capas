@@ -35,6 +35,34 @@ namespace SistemaGestionData
 
         }
 
+        public static bool ValidarCredenciales(UsuarioDTO usuarioLogin)
+        {
+
+            try
+            {
+                using (var context = new SistemaGestionContext())
+                {
+                    var usuario = context.Usuarios.Where(x => x.NombreUsuario == usuarioLogin.NombreUsuario && x.Contraseña == usuarioLogin.Contraseña);
+                    if (usuario.Any())
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+                Console.WriteLine("Error al obtener el producto: " + ex.Message);
+
+                return false;
+            }
+
+        }
+
         public static List<Usuario> ListarUsuario()
         {
             try
@@ -126,10 +154,10 @@ namespace SistemaGestionData
 
                 return;
             }
-
-            
+                     
         }
+       
 
-    }   
-   
+    }
+
 }
